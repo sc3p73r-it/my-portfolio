@@ -6,7 +6,11 @@ export const skills = [
   },
   {
     title: 'Open-Source Softwares and tools',
-    techs: ['VS Code', 'osTicket', 'Git', 'GitHub', 'OpenProject', 'Odoo' ]
+    techs: ['Snipe-IT', 'osTicket', 'Git', 'GitHub', 'OpenProject', 'Odoo' ]
+  },
+  {
+  title: 'Monitoring tools',
+  techs: ['Zabbix','Prometheus','Grafana','SolarWind Orion']
   },
   {
     title: 'Currently or interest in learning...',
