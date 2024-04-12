@@ -6,7 +6,7 @@ export const skills = [
   },
   {
     title: 'Virtualization',
-    techs: ['VMware ESXi','Proxmox']
+    techs: ['VMware ESXi', 'Proxmox', 'KVM', 'VMware Workstation', 'Oracle VirtualBox']
     },
   {
     title: 'Open-Source Softwares and tools',
