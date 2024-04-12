@@ -7,8 +7,8 @@ const CurrentTimeLineExp = () => {
     <Timeline>
 
       <TimelineEvent active>
-
-        <TimelineEvent.Title><a href='https://kmagroup.com.mm' target='_blank' rel='noopener noreferrer' className='hover:text-white hover:underline transition-all ease'>System Engineer</a> | Dec. 2023 - Currently</TimelineEvent.Title>
+      <TimelineEvent.Title>KMA Group Of Companies</TimelineEvent.Title>
+        <TimelineEvent.Title> System Engineer | Dec. 2023 - Currently</TimelineEvent.Title>
 
         <TimelineEvent.Description>
         - Windows / Linux (Ubuntu, RHEL Base) Server Administration
@@ -27,11 +27,19 @@ const CurrentTimeLineExp = () => {
       </TimelineEvent>
 
       <TimelineEvent>
-
-        <TimelineEvent.Title>Freelance | feb. 2022 - mar. 2023</TimelineEvent.Title>
+      <TimelineEvent.Title>Myanmar Distribution Group</TimelineEvent.Title>
+        <TimelineEvent.Title>IT Executive | July. 2023 - Nov. 2023</TimelineEvent.Title>
 
         <TimelineEvent.Description>
-          Design and development of web pages applying agile methodologies, clean architecture, SOLID principles and pixel perfect in all projects, I have developed almost all types of projects from Landing pages, stores, blogs and dashboards.
+         - Defining multiple virtual servers on a single host machine on VMware ESXI 6.5 and Proxmox Virtual Environment.
+         - Installing and configuring operating systems and application software
+         - Managing the Active Directory user & group and helath checks
+         - Implementing the redmine open-source project management system on Linux VM for the developer need.
+         - IT Assets controlling and manage the assets management application
+         - Implementing best practices for system security and application software
+         - Implementing the development environments for the Odoo ERP source code and database migration process
+         - Development testing on Odoo ERP and Postgres Sql Administration
+         - Amazon Cloudwatch Monitoring (ec2,ebs,s3,rds) on grafana dashboard
         </TimelineEvent.Description>
 
       </TimelineEvent>
