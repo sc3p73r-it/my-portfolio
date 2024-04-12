@@ -30,13 +30,6 @@ const AllFavTechs = () => {
       >
 
         <motion.li style={{ opacity: 1, transform: 'none' }} variants={animation}>
-          <div className='transition duration-200'>
-            <img src={LinuxIcon} alt="Linux" className='h-6 w-6' />
-          </div>
-        </motion.li>
-
-
-        <motion.li style={{ opacity: 1, transform: 'none' }} variants={animation}>
           <div className='transition duration-200 hover:text-[#8cc84b]'>
             <svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 32 32' preserveAspectRatio='xMidYMid' fill='currentColor' role='img' className='h-6 w-6'>
               <title>Node.js</title>
