@@ -45,7 +45,7 @@ const CurrentTimeLineExp = () => {
 
       <TimelineEvent last>
 
-        <TimelineEvent.Title>Capital Diamon Star Group (Retail Cluster)<br /> Senior System Engineer | Aug. 2021 - Jun. 2023</TimelineEvent.Title>
+        <TimelineEvent.Title>Capital Diamond Star Group (Retail Cluster)<br /> Senior System Engineer | Aug. 2021 - Jun. 2023</TimelineEvent.Title>
 
         <TimelineEvent.Description>
         - Monitoring head office and branch network status and VPN connection check with Cisco Meraki Cloud <br />
