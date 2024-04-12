@@ -7,7 +7,7 @@ const Blog = () => (
     <div className='w-full flex flex-col items-center gap-6' style={{ height: '100vh' }}>
 
       <TitleSectionPageContainer title='Sc3p73R Blog' />
-      <p>I have no idea how to write BlogSection in typescript language! 😂</p>
+      <p className='text-base text-gray-400'>I have no idea how to write BlogSection in typescript language! 😂</p>
     </div>
 
   </SectionContainer>
