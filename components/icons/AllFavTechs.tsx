@@ -1,7 +1,6 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import LinuxIcon from '@/components/icons/linux.svg';
 
 const animation = {
   hide: { x: -8, opacity: 0 },
@@ -29,13 +28,6 @@ const AllFavTechs = () => {
         animate='show'
         transition={{ delayChildren: 0.6, staggerChildren: 0.025 }}
       >
-
-        <motion.li style={{ opacity: 1, transform: 'none' }} variants={animation}>
-              <div className='transition duration-200'>
-                {/* Use the imported SVG component */}
-                <img src={LinuxIcon} alt="Linux" className='h-6 w-6' />
-              </div>
-            </motion.li>
 
         <motion.li style={{ opacity: 1, transform: 'none' }} variants={animation}>
           <div className='transition duration-200 hover:text-[#8cc84b]'>
