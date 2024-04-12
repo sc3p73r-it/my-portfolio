@@ -40,7 +40,7 @@ const AllFavTechs = () => {
 
         <motion.li style={{ opacity: 1, transform: 'none' }} variants={animation}>
            <div className='transition duration-200'>
-              <img src="linux.svg" alt="Linux" className='h-6 w-6' />
+              <img src="./components/icons/linux.svg" alt="Linux" className='h-6 w-6' />
             </div>
         </motion.li>
         <motion.li style={{ opacity: 1, transform: 'none' }} variants={animation}>
