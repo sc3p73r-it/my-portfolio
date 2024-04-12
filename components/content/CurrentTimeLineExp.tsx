@@ -48,18 +48,18 @@ const CurrentTimeLineExp = () => {
         <TimelineEvent.Title>Capital Diamon Star Group (Retail Cluster)<br /> Senior System Engineer | Aug. 2021 - Jun. 2023</TimelineEvent.Title>
 
         <TimelineEvent.Description>
-        Monitoring head office and branch network status and VPN connection check with Cisco Meraki Cloud <br />
-        Daily health check HO and Branch Microsoft Dynamic AX ERP Server.<br />
-        Handling the operation and maintenance for IT Infrastructure, Network, Server, Application, ERP, Security<br />
-        Performed system administration and maintenance tasks including data protection/database backup the accidental hardware error for Easily Restore<br />
-        Maintenance of IT equipment such as UPS, switches, Access Points, Printers, Servers, NAS, etc.<br />
-        Microsoft Office 365 Admin Center Maintenance and Organization health check<br />
-        Documenting for all incoming and outgoing IT Equipment & Asset list.<br />
-        IT fixed assets controlling and manage the assets management application<br />
-        Building an internal relation with technical documentation, manuals and IT policies<br />
-        Helping the Team Members and solve the User error & System Issue<br />
-        Submitting IT issue everything that happens a weekly report to the IT Manager<br />
-        Followed the IT policies and procedures to secure Company data by installing, regularly maintaining and upgrading security software.<br />
+        - Monitoring head office and branch network status and VPN connection check with Cisco Meraki Cloud <br />
+        - Daily health check HO and Branch Microsoft Dynamic AX ERP Server.<br />
+        - Handling the operation and maintenance for IT Infrastructure, Network, Server, Application, ERP, Security<br />
+        - Performed system administration and maintenance tasks including data protection/database backup the accidental hardware error for Easily Restore<br />
+        - Maintenance of IT equipment such as UPS, switches, Access Points, Printers, Servers, NAS, etc.<br />
+        - Microsoft Office 365 Admin Center Maintenance and Organization health check<br />
+        - Documenting for all incoming and outgoing IT Equipment & Asset list.<br />
+        - IT fixed assets controlling and manage the assets management application<br />
+        - Building an internal relation with technical documentation, manuals and IT policies<br />
+        - Helping the Team Members and solve the User error & System Issue<br />
+        - Submitting IT issue everything that happens a weekly report to the IT Manager<br />
+        - Followed the IT policies and procedures to secure Company data by installing, regularly maintaining and upgrading security software.<br />
         </TimelineEvent.Description>
 
       </TimelineEvent>
