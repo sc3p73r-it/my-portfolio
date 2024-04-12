@@ -17,7 +17,7 @@ const CurrentTimeLineExp = () => {
         - Implementation of Project Management & Helpdesk System with OpenProject 
         - Active Directory Monitoring with ADAudit Plus
         - Managing MySQL and PostgreSQL 
-        - Managing VMware ESXi 
+        - Managing VMware ESXI and 
         - Ysoft Print Server Administration
         - Implementing best practices for system security and data backups.
         - Develop system-monitoring and support automation to enhance and scale the quality of support
