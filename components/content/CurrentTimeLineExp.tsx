@@ -8,7 +8,7 @@ const CurrentTimeLineExp = () => {
 
       <TimelineEvent active>
 
-        <TimelineEvent.Title><a href='https://www.ia.com.mx' target='_blank' rel='noopener noreferrer' className='hover:text-white hover:underline transition-all ease'>System Engineer</a> | Dec. 2023 - Currently</TimelineEvent.Title>
+        <TimelineEvent.Title><a href='https://kmagroup.com.mm' target='_blank' rel='noopener noreferrer' className='hover:text-white hover:underline transition-all ease'>System Engineer</a> | Dec. 2023 - Currently</TimelineEvent.Title>
 
         <TimelineEvent.Description>
         - Windows / Linux (Ubuntu, RHEL Base) Server Administration
