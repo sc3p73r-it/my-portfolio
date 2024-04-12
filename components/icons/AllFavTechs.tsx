@@ -1,11 +1,6 @@
 'use client';
 
-import React from 'react';
 import { motion } from 'framer-motion';
-
-// Import the SVG File
-import LinuxIcon from './components/icons/linux.svg'; // Adjust the path as per your project structure
-
 
 const animation = {
   hide: { x: -8, opacity: 0 },
