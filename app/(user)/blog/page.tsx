@@ -1,5 +1,6 @@
 import SectionContainer from "@/components/utils/SectionContainer";
 import TitleSectionPageContainer from "@/components/utils/TitleSectionPageContainer";
+import AboutSection from '@/components/sections/BlogSection';
 
 const Blog = () => (
   <SectionContainer>
