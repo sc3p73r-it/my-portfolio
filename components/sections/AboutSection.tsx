@@ -17,15 +17,15 @@ const AboutSection = () => {
         <AnimationContainer customClassName='w-full flex flex-col gap-5 mb-8'>
 
           <p className='text-base text-gray-400'>
-            I am a passionate and versatile developer with over two years of JavaScript experience and a constant interest in learning new technologies. I am currently learning the path to be a DevOps and master tools or practices such as "Linux, AWS, CI/CD, Docker, Kubernetes, Jenkins and Terraform" to perform cost optimized, reliable and secure full software delivery and maintenance.
+          I have over five years of experience in the IT Industry related to Network and Systems. I have responsible for focusing on Open-Source platform in the working environment. I have handled and solve the Windows & Linux Server issues. I'm currently learning the DevOps Culture such as "Linux, AWS, CI/CD, Docker, Kubernetes, Jenkins and Terraform" to perform cost optimized, reliable and secure full software delivery and maintenance.
           </p>
 
           <p className='text-base text-gray-400'>
-            I have a solid experience in web, mobile, and desktop Frontend development, using frameworks and technologies such as "React, Next.js, Angular, Ionic, and Electron". I also have skills in Backend development with "Node", Express and MongoDB. UX design with "Figma" always following the best practices of prototyping and coding, clean architecture, "SOLID" principles, pixel perfect, GitFlow, and agile methodologies.
+            I have a solid experience in Windows & Linux Server Administration, Active Directory Management, IT Asset Management(Snipe-IT), Open-Source Software, Manage system upgrades and migrations, ensuring minimal disruption to business operations.
           </p>
 
           <p className='text-base text-gray-400'>
-            In addition to my regular work, I also work on my own projects, creating useful software or products from design and development to deployment in AWS that contribute and help to solve problems or try to solve them or give inspiration to the user connecting the AI to an API and using the "Actions" of OpenAI or others, to give commands and interact with the API and, finally, provide a result to the user.
+            comming soon !!!
           </p>
 
         </AnimationContainer>
