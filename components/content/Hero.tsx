@@ -8,12 +8,12 @@ const Hero = () => {
       <AnimationContainer customClassName='flex flex-col items-center justify-between lg:items-start p-0 lg:pr-8'>
 
         <h1 className='font-bold text-3xl lg:text-5xl text-center lg:text-start tracking-tight mb-3 text-white mx-auto lg:mx-0'>
-          Jean Rondón
+          Htet Oo Wai Yan
         </h1>
 
         <h2 className='flex items-center gap-2 text-1xl lg:text-1xl text-gray-200 mb-8 mx-auto lg:mx-0'>
 
-          <span className='font-semibold'>JavaScript</span>Developer
+          <span className='font-semibold'>System</span>Engineer
 
         </h2>
 
@@ -21,10 +21,10 @@ const Hero = () => {
 
       <AnimationContainer customClassName='w-[80px] sm:w-[176px] relative mb-6 lg:mb-0'>
         <Image
-          alt='Jean Rondón'
+          alt='Sc3p73R'
           height={176}
           width={176}
-          src='/jeandv.jpg'
+          src='/my_profile.jpg'
           sizes='30vw'
           priority
           className='rounded-[8px] filter grayscale hover:grayscale-0 transition ease'
