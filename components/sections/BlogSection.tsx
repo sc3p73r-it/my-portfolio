@@ -1,11 +1,24 @@
 
-const AboutSection = () => {
-  return (
-    <SectionContainer>
 
-     
-    </SectionContainer>
-  )
-}
+const BlogSection = () => {
+    return (
+      <SectionContainer>
+  
+        <div className='w-full flex flex-col gap-6'>
+  
+          <TitleSectionPageContainer title='About me' />
+  
+          <AnimationContainer customClassName='w-full flex flex-col gap-5 mb-8'>
+  
+            <p className='text-base text-gray-400'>
+              comming soon !!!
+            </p>
+  
+          </AnimationContainer>
 
-export default BlogSection;
+        </div>
+  
+      </SectionContainer>
+    )
+  }
+  export default BlogSection;
