@@ -27,7 +27,8 @@ const CurrentTimeLineExp = () => {
       </TimelineEvent>
 
       <TimelineEvent>
-        <TimelineEvent.Title>Myanmar Distribution Group<br />IT Executive | July. 2023 - Nov. 2023</TimelineEvent.Title>
+      <TimelineEvent.Title>Myanmar Distribution Group</TimelineEvent.Title>
+        <TimelineEvent.Title>IT Executive | July. 2023 - Nov. 2023</TimelineEvent.Title>
 
         <TimelineEvent.Description>
          - Defining multiple virtual servers on a single host machine on VMware ESXI 6.5 and Proxmox Virtual Environment. <br />
@@ -43,9 +44,9 @@ const CurrentTimeLineExp = () => {
 
       </TimelineEvent>
 
-      <TimelineEvent last>
-
-        <TimelineEvent.Title>Capital Diamond Star Group (Retail Cluster)<br /> Senior System Engineer | Aug. 2021 - Jun. 2023</TimelineEvent.Title>
+      <TimelineEvent>
+      <TimelineEvent.Title>Capital Diamond Star Group [Retail Cluster]</TimelineEvent.Title>
+        <TimelineEvent.Title>Senior System Engineer | Aug. 2021 - Jun. 2023</TimelineEvent.Title>
 
         <TimelineEvent.Description>
         - Monitoring head office and branch network status and VPN connection check with Cisco Meraki Cloud <br />
