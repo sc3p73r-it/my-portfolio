@@ -34,7 +34,7 @@ const CurrentTimeLineExp = () => {
          - Defining multiple virtual servers on a single host machine on VMware ESXI 6.5 and Proxmox Virtual Environment. <br />
          - Installing and configuring operating systems and application software<br />
          - Managing the Active Directory user & group and helath checks <br />
-         - Implementing the redmine open-source project management system on Linux VM for the<br /> developer need.<br />
+         - Implementing the redmine open-source project management system on Linux VM for the developer need.<br />
          - IT Assets controlling and manage the assets management application<br />
          - Implementing best practices for system security and application software<br />
          - Implementing the development environments for the Odoo ERP source code and database{"\n"} migration process<br />
