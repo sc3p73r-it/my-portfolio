@@ -1,5 +1,4 @@
 
-
 const AboutSection = () => {
   return (
     <SectionContainer>
