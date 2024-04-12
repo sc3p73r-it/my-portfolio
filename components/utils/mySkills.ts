@@ -1,11 +1,8 @@
 export const skills = [
+
   {
-    title: 'Languages',
-    techs: ['HTML', 'CSS', 'JavaScript', 'TypeScript']
-  },
-  {
-    title: 'Frameworks and libraries',
-    techs: ['jQuery', 'Angular', 'React', 'Next.js', 'Ionic', 'Electron.js']
+    title: 'Operating System',
+    techs: ['Windows', 'Windows Server', 'Ubuntu', 'CentOS', 'Red Hat', 'Rocky Linux']
   },
   {
     title: 'JavaScript libraries',

@@ -127,7 +127,7 @@ const favProjects = [
   }
 ];
 
-const myGithub = 'https://github.com/jeandv';
+const myGithub = 'https://github.com/sc3p73r-it';
 
 const FavProjects = () => {
 

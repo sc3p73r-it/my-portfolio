@@ -8,10 +8,20 @@ const CurrentTimeLineExp = () => {
 
       <TimelineEvent active>
 
-        <TimelineEvent.Title><a href='https://www.ia.com.mx' target='_blank' rel='noopener noreferrer' className='hover:text-white hover:underline transition-all ease'>IA Interactive</a> | mar. 2023 - Currently</TimelineEvent.Title>
+        <TimelineEvent.Title><a href='https://www.ia.com.mx' target='_blank' rel='noopener noreferrer' className='hover:text-white hover:underline transition-all ease'>System Engineer</a> | Dec. 2023 - Currently</TimelineEvent.Title>
 
         <TimelineEvent.Description>
-          Frontend development and maintenance of projects implementing agile methodologies (Kanban in Jira) and best practices such as SOLID principles, pixel perfect, clean architecture, clean code using Jira, SCRUM practices, Git, GitFlow practices, Bitbucket, HTML, CSS, Pug, SASS, Tailwind, JavaScript, TypeScript, React, Next.js, Redux, Zustand, Jest and using microfrontends and Storybook to facilitate the use of reusable components.
+        - Windows / Linux (Ubuntu, RHEL Base) Server Administration
+        - Implementation and Deployment of IT Asset Management system (Snipe-IT).
+        - Managed IT Assets & Inventory Management
+        - Implementation of Project Management & Helpdesk System with OpenProject 
+        - Active Directory Monitoring with ADAudit Plus
+        - Managing MySQL and PostgreSQL 
+        - Managing VMware ESXi 
+        - Ysoft Print Server Administration
+        - Implementing best practices for system security and data backups.
+        - Develop system-monitoring and support automation to enhance and scale the quality of support
+        - Evaluates the existing systems and provides the technical direction to IT support staff.
         </TimelineEvent.Description>
 
       </TimelineEvent>
