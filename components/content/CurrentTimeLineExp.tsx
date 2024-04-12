@@ -51,7 +51,7 @@ const CurrentTimeLineExp = () => {
         <TimelineEvent.Description>
         - Monitoring head office and branch network status and VPN connection check with Cisco Meraki Cloud <br />
         - Daily health check HO and Branch Microsoft Dynamic AX ERP Server.<br />
-        - Handling the operation and maintenance for IT Infrastructure, Network, Server, Application, ERP, Security<br />
+        - Handling the operation and maintenance for Network, Server, Application, ERP, Security<br />
         - Performed system administration and maintenance tasks including data protection/database backup the accidental hardware error for Easily Restore<br />
         - Maintenance of IT equipment such as UPS, switches, Access Points, Printers, Servers, NAS, etc.<br />
         - Microsoft Office 365 Admin Center Maintenance and Organization health check<br />
