@@ -40,10 +40,10 @@ const AllFavTechs = () => {
 
         <motion.li style={{ opacity: 1, transform: 'none' }} variants={animation}>
           <div className='transition duration-200 hover:text-[#61DAFB]'>
-            <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' role='img' fill='currentColor' className='h-6 w-6'>
-              <title>Windows</title>
-              <path d="M0 32h214.6v214.6H0V32zm233.4 0H448v214.6H233.4V32zM0 265.4h214.6V480H0V265.4zm233.4 0H448V480H233.4V265.4z" fill="blue"></path>
-            </svg>
+          <svg style="color: blue" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role='img'  fill='currentColor' className='h-6 w-6>
+          <title>Windows</title> 
+           <path d="M0 32h214.6v214.6H0V32zm233.4 0H448v214.6H233.4V32zM0 265.4h214.6V480H0V265.4zm233.4 0H448V480H233.4V265.4z" fill="blue"></path>
+          </svg>
           </div>
         </motion.li>
 
