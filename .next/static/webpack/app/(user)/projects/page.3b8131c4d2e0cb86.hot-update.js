@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/(user)/projects/page",{
+
+/***/ "(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Chtetoowaiyan.KMA208%5CDocuments%5CWebsite%5Cmy-portfolio%5Ccomponents%5Cutils%5CAnimationContainer.tsx&modules=C%3A%5CUsers%5Chtetoowaiyan.KMA208%5CDocuments%5CWebsite%5Cmy-portfolio%5Ccomponents%5Cutils%5CTitleSectionPageContainer.tsx&server=false!":
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Chtetoowaiyan.KMA208%5CDocuments%5CWebsite%5Cmy-portfolio%5Ccomponents%5Cutils%5CAnimationContainer.tsx&modules=C%3A%5CUsers%5Chtetoowaiyan.KMA208%5CDocuments%5CWebsite%5Cmy-portfolio%5Ccomponents%5Cutils%5CTitleSectionPageContainer.tsx&server=false! ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/utils/AnimationContainer.tsx */ \"(app-client)/./components/utils/AnimationContainer.tsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/utils/TitleSectionPageContainer.tsx */ \"(app-client)/./components/utils/TitleSectionPageContainer.tsx\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPUMlM0ElNUNVc2VycyU1Q2h0ZXRvb3dhaXlhbi5LTUEyMDglNUNEb2N1bWVudHMlNUNXZWJzaXRlJTVDbXktcG9ydGZvbGlvJTVDY29tcG9uZW50cyU1Q3V0aWxzJTVDQW5pbWF0aW9uQ29udGFpbmVyLnRzeCZtb2R1bGVzPUMlM0ElNUNVc2VycyU1Q2h0ZXRvb3dhaXlhbi5LTUEyMDglNUNEb2N1bWVudHMlNUNXZWJzaXRlJTVDbXktcG9ydGZvbGlvJTVDY29tcG9uZW50cyU1Q3V0aWxzJTVDVGl0bGVTZWN0aW9uUGFnZUNvbnRhaW5lci50c3gmc2VydmVyPWZhbHNlIS5qcyIsIm1hcHBpbmdzIjoiQUFBQSxxTUFBZ0o7QUFDaEoiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz82MWEzIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiQzpcXFxcVXNlcnNcXFxcaHRldG9vd2FpeWFuLktNQTIwOFxcXFxEb2N1bWVudHNcXFxcV2Vic2l0ZVxcXFxteS1wb3J0Zm9saW9cXFxcY29tcG9uZW50c1xcXFx1dGlsc1xcXFxBbmltYXRpb25Db250YWluZXIudHN4XCIpO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCJDOlxcXFxVc2Vyc1xcXFxodGV0b293YWl5YW4uS01BMjA4XFxcXERvY3VtZW50c1xcXFxXZWJzaXRlXFxcXG15LXBvcnRmb2xpb1xcXFxjb21wb25lbnRzXFxcXHV0aWxzXFxcXFRpdGxlU2VjdGlvblBhZ2VDb250YWluZXIudHN4XCIpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Chtetoowaiyan.KMA208%5CDocuments%5CWebsite%5Cmy-portfolio%5Ccomponents%5Cutils%5CAnimationContainer.tsx&modules=C%3A%5CUsers%5Chtetoowaiyan.KMA208%5CDocuments%5CWebsite%5Cmy-portfolio%5Ccomponents%5Cutils%5CTitleSectionPageContainer.tsx&server=false!\n"));
+
+/***/ })
+
+});
