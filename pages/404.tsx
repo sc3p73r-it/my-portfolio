@@ -11,7 +11,7 @@ const PageNotFound = () => {
         <h1 className='text-white tracking-tight text-9xl'>404</h1>
 
         <p className='text-2xl font-bold tracking-tight text-gray-400 sm:text-4xl mt-3'>
-          Upss... xd
+          What are you looking for 😢
         </p>
 
         <p className='mt-4 text-gray-400'>We can't find that page.</p>

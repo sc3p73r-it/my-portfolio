@@ -12,7 +12,7 @@ const allProjectsInfo = [
     des: 'Powerful IT Asset Management System our team will love.',
     category: 'Open-Source',
     repo: 'https://github.com/sc3p73r-it/snipe-it',
-    link: 'https://github.com/sc3p73r-it/snipe-it'
+    link: 'https://assets.kmagroup.com.mm'
   },
   {
     id: '2',
@@ -20,16 +20,16 @@ const allProjectsInfo = [
     des: 'Open Source Project Management System. ',
     category: 'Open-Source',
     repo: 'https://github.com/sc3p73r-it/redmine',
-    link: 'https://github.com/sc3p73r-it/redmine'
+    link: 'https://pms.mdgportal.com'
   },
-  // {
-  //   id: '3',
-  //   title: 'Github User Finder',
-  //   des: 'frontendmentor.io challenge where I use the github api to be able to search for github users.',
-  //   category: 'javascript',
-  //   repo: 'https://jeandv.github.io/pokedex',
-  //   link: 'https://jeandv.github.io/pokedex'
-  // },
+  {
+    id: '3',
+    title: 'OpenProject',
+    des: 'Open Source Project Management System Software is powerful classic, agile or hybrid project management in a secure environment.',
+    category: 'Open-Source', 
+    repo: 'https://openproject.com/',
+    link: 'http://projects.kmagroup.com.mm/'
+  },
   // {
   //   id: '5',
   //   title: 'MisPelis',
