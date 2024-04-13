@@ -10,8 +10,12 @@ export const skills = [
     },
   {
     title: 'Open-Source Softwares and tools',
-    techs: ['Snipe-IT', 'osTicket', 'Git', 'GitHub', 'OpenProject', 'Odoo' ]
+    techs: ['Snipe-IT', 'osTicket', 'Git', 'GitHub', 'Vercel', 'OpenProject', 'Odoo']
   },
+  {
+    title: 'Web Server & App Deplyoment',
+    techs: ['Apache','Nginx','Static HTML', 'LAMP', 'Laravel', 'NodeJS']
+  }, 
   {
   title: 'Monitoring tools',
   techs: ['Zabbix','Prometheus','Grafana','SolarWind Orion']
