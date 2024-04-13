@@ -18,6 +18,6 @@ export const skills = [
   },
   {
     title: 'Currently or interest in learning...',
-    techs: ['AWS', 'Azure', 'Docker', 'Kubernetes', 'CI/CD', 'Terraform', 'Jenkins']
+    techs: ['AWS', 'Ansible', 'Docker', 'Kubernetes', 'CI/CD', 'Terraform', 'Jenkins']
   }
 ];

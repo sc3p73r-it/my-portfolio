@@ -145,9 +145,12 @@ const FavProjects = () => {
     <AnimationContainer customClassName='w-full flex flex-col justify-center text-center lg:items-start mb-16'>
 
       <h2 className='font-bold text-2xl lg:text-2xl tracking-tight mb-8 text-white text-center lg:text-start'>
-        Open Source Projects
+         Projects
       </h2>
-
+      <p className='text-left text-gray-400'>
+         I experimented with open source projects and used projects useful for business. I have been studying and using Open Source Projects for almost 2 years now. Among the many open source projects, my favorite is Snipe-IT IT Asset Management Software. Using it has reduced Excel Spread Sheets in our workplace, which is very convenient for us.
+      </p> 
+      <br />
       <Carousel
         slideSize='50%'
         breakpoints={[{ maxWidth: 'xs', slideSize: '100%', slideGap: 1 }]}
