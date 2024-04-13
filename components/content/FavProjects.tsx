@@ -79,7 +79,7 @@ const Card = ({ image, title, category, repo, link }: CardProps) => {
 const favProjects = [
   {
     image:
-        'https://private-user-images.githubusercontent.com/140035139/254759585-9b1b5846-fe9b-4e6b-80c8-bc46550cdd85.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI5OTU3NTMsIm5iZiI6MTcxMjk5NTQ1MywicGF0aCI6Ii8xNDAwMzUxMzkvMjU0NzU5NTg1LTliMWI1ODQ2LWZlOWItNGU2Yi04MGM4LWJjNDY1NTBjZGQ4NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxM1QwODA0MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NjJlNjk1ZWVjZDhlYTQ2YmM3NmViNGQ1ZjYzNGM4ZjAwNTczNTY4ZmUwZGNhYThjNGFiYWIwZTFmMDYyMTRiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.63Ufhp-NlTnT0LXyK2UFwi8bgBGpnHahxFVtxioqKmQ',
+        'https://github.com/sc3p73r-it/snipe-it/assets/140035139/9b1b5846-fe9b-4e6b-80c8-bc46550cdd85',
     title: 'Snipe-IT Asset Management System',
     category: 'Open Source',
     repo: 'https://github.com/sc3p73r-it/snipe-it',
@@ -87,7 +87,7 @@ const favProjects = [
   },
   {
     image:
-      'https://private-user-images.githubusercontent.com/140035139/274817181-b1fd481b-785a-479e-935c-89dc927d9cca.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI5OTYzODksIm5iZiI6MTcxMjk5NjA4OSwicGF0aCI6Ii8xNDAwMzUxMzkvMjc0ODE3MTgxLWIxZmQ0ODFiLTc4NWEtNDc5ZS05MzVjLTg5ZGM5MjdkOWNjYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxM1QwODE0NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNTk3OTIxMTFmZmIyNTA2YTVmYTM4ZTE4MjkxZWNmMWJmZjBmOWNjNjczOTM5NjViNmJkZWIxNjA0OWNjNTg1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.jHyLeUwajU2hxmYFFUFpaUMmOosL_618htTdyGuJPdc',
+      'https://github.com/sc3p73r-it/redmine/assets/140035139/b1fd481b-785a-479e-935c-89dc927d9cca',
     title: 'Redmine PMS',
     category: 'Open Source ',
     repo: 'https://github.com/sc3p73r-it/redmine',
