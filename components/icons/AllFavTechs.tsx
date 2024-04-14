@@ -37,16 +37,16 @@ const AllFavTechs = () => {
           </div>             
         </motion.li> */}
         
-        <img src='/favtech/linux.svg' alt="Linux" className="h-10 w-5" /> 
-        <img src='/favtech/microsoft.svg' alt="Linux" className="h-10 w-5" />
-        <img src='/favtech/microsoft.svg' alt="Linux" className="h-10 w-5" />
-        <img src='/favtech/microsoft.svg' alt="Linux" className="h-10 w-5" />
-        <img src='/favtech/microsoft.svg' alt="Linux" className="h-10 w-5" />
-        <img src='/favtech/microsoft.svg' alt="Linux" className="h-10 w-5" />
-        <img src='/favtech/microsoft.svg' alt="Linux" className="h-10 w-5" />
-        <img src='/favtech/microsoft.svg' alt="Linux" className="h-10 w-5" />
-        <img src='/favtech/microsoft.svg' alt="Linux" className="h-10 w-5" />
-        <img src='/favtech/microsoft.svg' alt="Linux" className="h-10 w-5" />
+        <img src='/favtech/microsoft.svg' alt="Linux" className="h-10 w-5" /> 
+        <img src='/favtech/linux.svg' alt="Linux" className="h-10 w-5" />
+        <img src='/favtech/bash.svg' alt="Linux" className="h-10 w-5" />
+        <img src='/favtech/git.svg' alt="Linux" className="h-10 w-5" />
+        <img src='/favtech/mysql.svg' alt="Linux" className="h-10 w-5" />
+        <img src='/favtech/apache.svg' alt="Linux" className="h-10 w-5" />
+        <img src='/favtech/cloudflare.svg' alt="Linux" className="h-10 w-5" />
+        <img src='/favtech/prometheus.svg' alt="Linux" className="h-10 w-5" />
+        <img src='/favtech/grafana.svg' alt="Linux" className="h-10 w-5" />
+        <img src='/favtech/microsoft365-admin.svg' alt="Linux" className="h-10 w-5" />
       </motion.ul>
     </>
   )
