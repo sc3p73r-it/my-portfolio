@@ -3565,7 +3565,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/ui/ExternalLink.tsx",
         "name": "*",
         "chunks": [
-          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+          "app/(user)/page:static/chunks/app/(user)/page.js"
         ],
         "async": false
       },
@@ -3573,7 +3573,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/ui/ExternalLink.tsx",
         "name": "",
         "chunks": [
-          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+          "app/(user)/page:static/chunks/app/(user)/page.js"
         ],
         "async": false
       },
@@ -3581,7 +3581,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/ui/ExternalLink.tsx",
         "name": "default",
         "chunks": [
-          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+          "app/(user)/page:static/chunks/app/(user)/page.js"
         ],
         "async": false
       }
@@ -3591,7 +3591,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
         "name": "*",
         "chunks": [
-          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
         ],
         "async": false
       },
@@ -3599,7 +3599,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
         "name": "",
         "chunks": [
-          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
         ],
         "async": false
       },
@@ -3607,7 +3607,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
         "name": "default",
         "chunks": [
-          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
         ],
         "async": false
       }
@@ -3806,6 +3806,32 @@ self.__RSC_MANIFEST={
         "name": "value",
         "chunks": [
           "app/(user)/page:static/chunks/app/(user)/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/utils/TitleSectionPageContainer.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       }
@@ -4178,84 +4204,6 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/content/CardProject.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/content/CardProject.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/content/CardProject.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/content/CardProject.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/content/SearchAllProjects.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/content/SearchAllProjects.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/content/SearchAllProjects.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/content/SearchAllProjects.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/utils/TitleSectionPageContainer.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       }
@@ -11840,7 +11788,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/ui/ExternalLink.tsx",
       "name": "*",
       "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+        "app/(user)/page:static/chunks/app/(user)/page.js"
       ],
       "async": false
     },
@@ -11848,7 +11796,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/ui/ExternalLink.tsx",
       "name": "",
       "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+        "app/(user)/page:static/chunks/app/(user)/page.js"
       ],
       "async": false
     },
@@ -11856,7 +11804,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/ui/ExternalLink.tsx",
       "name": "default",
       "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+        "app/(user)/page:static/chunks/app/(user)/page.js"
       ],
       "async": false
     },
@@ -11864,7 +11812,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/utils/AnimationContainer.tsx",
       "name": "*",
       "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
       ],
       "async": false
     },
@@ -11872,7 +11820,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/utils/AnimationContainer.tsx",
       "name": "",
       "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
       ],
       "async": false
     },
@@ -11880,7 +11828,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/utils/AnimationContainer.tsx",
       "name": "default",
       "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
       ],
       "async": false
     },
@@ -12753,6 +12701,30 @@ self.__RSC_MANIFEST={
       "name": "warnOnce",
       "chunks": [
         "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#default": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -13990,78 +13962,6 @@ self.__RSC_MANIFEST={
       "name": "",
       "chunks": [
         "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx": {
-      "id": "(app-client)/./components/content/CardProject.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx#": {
-      "id": "(app-client)/./components/content/CardProject.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx#default": {
-      "id": "(app-client)/./components/content/CardProject.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx": {
-      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx#": {
-      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx#default": {
-      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx": {
-      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#": {
-      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#default": {
-      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     }
