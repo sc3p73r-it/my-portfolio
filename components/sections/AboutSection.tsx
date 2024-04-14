@@ -37,11 +37,11 @@ const AboutSection = () => {
           <h2 className='font-bold text-2xl md:text-2xl tracking-tight mb-2 text-white text-start'>Skills & Tools</h2>
 
           <p className='text-base text-gray-400'>
-            A look at all the programming languages, libraries, and tools I've worked with, I started programming about 4 years ago. I have tried a few programming languages and technology stack, both Backend and Frontend.
+          I have been experienced in the IT Industry for more than 5 years and currently I am working as a   System Engineer Position. My main responsibilities are Issues, Troubleshooting, Secure System, Security, IT Asset Management, Microsoft 365 Administration, etc related to Windows & Linux Servers. We are always studying new technologies, and we study what is necessary for the business first.
           </p>
 
           <p className='text-base text-gray-400'>
-            Event though the scope of web development is wide, I was very interested and focused on Frontend development.
+          Event though the scope of System Administration is wide, I was very interested and focused.
           </p>
 
           <div className='flex flex-col items-start gap-3 mt-3'>

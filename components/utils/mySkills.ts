@@ -14,7 +14,7 @@ export const skills = [
   },
   {
     title: 'Web Server & App Deplyoment',
-    techs: ['Apache','Nginx','Static HTML', 'LAMP', 'Laravel', 'NodeJS']
+    techs: ['Apache','Nginx','Static HTML', 'LAMP', 'PHP', 'Laravel', 'NodeJS']
   }, 
   {
   title: 'Monitoring tools',

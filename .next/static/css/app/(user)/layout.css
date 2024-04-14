@@ -1397,13 +1397,6 @@ table {
   --tw-text-opacity: 1;
   color: rgb(229 229 229 / var(--tw-text-opacity));
 }
-.hover\:text-white:hover {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-.hover\:underline:hover {
-  text-decoration-line: underline;
-}
 .hover\:shadow-\[0_8px_30px_rgb\(0\2c 0\2c 0\2c 0\.12\)\]:hover {
   --tw-shadow: 0 8px 30px rgb(0,0,0,0.12);
   --tw-shadow-colored: 0 8px 30px var(--tw-shadow-color);

@@ -3422,6 +3422,404 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./app/head.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/head.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/head.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/head.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/FlareCursor.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/LinksMenuNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/LinksNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/LinksNav.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/LinksNav.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/LinksNav.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "navItemsSelected": {
+        "id": "(sc_client)/./components/ui/LinksNav.tsx",
+        "name": "navItemsSelected",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/MobileMenuNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/NavItem.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/NavItem.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/NavItem.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/NavItem.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/utils/AnimationContainer.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/utils/HeaderAnimation.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./hooks/useMenuNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./hooks/useMenuNav.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./hooks/useMenuNav.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./hooks/useMenuNav.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./hooks/useScrollPosition.tsx": {
+      "*": {
+        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/add-locale.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/get-domain-locale.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/request-idle-callback.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/use-intersection.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./components/content/CurrentTimeLineExp.tsx": {
       "*": {
         "id": "(sc_client)/./components/content/CurrentTimeLineExp.tsx",
@@ -3582,32 +3980,6 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/utils/AnimationContainer.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       }
@@ -3884,378 +4256,6 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./app/head.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/head.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/head.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/head.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/FlareCursor.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/LinksMenuNav.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/LinksNav.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/LinksNav.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/LinksNav.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/LinksNav.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "navItemsSelected": {
-        "id": "(sc_client)/./components/ui/LinksNav.tsx",
-        "name": "navItemsSelected",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/MobileMenuNav.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/NavItem.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/NavItem.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/NavItem.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/NavItem.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/utils/HeaderAnimation.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./hooks/useMenuNav.tsx": {
-      "*": {
-        "id": "(sc_client)/./hooks/useMenuNav.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./hooks/useMenuNav.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./hooks/useMenuNav.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./hooks/useScrollPosition.tsx": {
-      "*": {
-        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/add-locale.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/get-domain-locale.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/request-idle-callback.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/use-intersection.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
         ],
         "async": false
       }
@@ -11708,1126 +11708,6 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CurrentTimeLineExp.tsx": {
-      "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CurrentTimeLineExp.tsx#": {
-      "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CurrentTimeLineExp.tsx#default": {
-      "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\FavProjects.tsx": {
-      "id": "(app-client)/./components/content/FavProjects.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\FavProjects.tsx#": {
-      "id": "(app-client)/./components/content/FavProjects.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\FavProjects.tsx#default": {
-      "id": "(app-client)/./components/content/FavProjects.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\TimeLineExp.tsx": {
-      "id": "(app-client)/./components/content/TimeLineExp.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\TimeLineExp.tsx#": {
-      "id": "(app-client)/./components/content/TimeLineExp.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\TimeLineExp.tsx#Timeline": {
-      "id": "(app-client)/./components/content/TimeLineExp.tsx",
-      "name": "Timeline",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\TimeLineExp.tsx#TimelineEvent": {
-      "id": "(app-client)/./components/content/TimeLineExp.tsx",
-      "name": "TimelineEvent",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllFavTechs.tsx": {
-      "id": "(app-client)/./components/icons/AllFavTechs.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllFavTechs.tsx#": {
-      "id": "(app-client)/./components/icons/AllFavTechs.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllFavTechs.tsx#default": {
-      "id": "(app-client)/./components/icons/AllFavTechs.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllLearnTechs.tsx": {
-      "id": "(app-client)/./components/icons/AllLearnTechs.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllLearnTechs.tsx#": {
-      "id": "(app-client)/./components/icons/AllLearnTechs.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllLearnTechs.tsx#default": {
-      "id": "(app-client)/./components/icons/AllLearnTechs.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\ui\\ExternalLink.tsx": {
-      "id": "(app-client)/./components/ui/ExternalLink.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\ui\\ExternalLink.tsx#": {
-      "id": "(app-client)/./components/ui/ExternalLink.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\ui\\ExternalLink.tsx#default": {
-      "id": "(app-client)/./components/ui/ExternalLink.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx": {
-      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx#": {
-      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx#default": {
-      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\ShowSkills.tsx": {
-      "id": "(app-client)/./components/utils/ShowSkills.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\ShowSkills.tsx#": {
-      "id": "(app-client)/./components/utils/ShowSkills.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\ShowSkills.tsx#default": {
-      "id": "(app-client)/./components/utils/ShowSkills.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-context.js#AmpStateContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "AmpStateContext",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-context.js#AmpStateContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "AmpStateContext",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-mode.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-mode.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-mode.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-mode.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-mode.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-mode.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-mode.js#isInAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "isInAmpMode",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-mode.js#isInAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
-      "name": "isInAmpMode",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "defaultHead",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "defaultHead",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#charSet": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "charSet",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#charSet": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "charSet",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#name": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "name",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#name": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "name",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#content": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "content",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#content": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "content",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#\"title\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"title\"",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"title\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"title\"",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#\"base\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"base\"",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"base\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"base\"",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#\"meta\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"meta\"",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"meta\"": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"meta\"",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#TODO(prateekbh@)": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "TODO(prateekbh@)",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#TODO(prateekbh@)": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "TODO(prateekbh@)",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#\"https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"https",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "\"https",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#here": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "here",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#here": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "here",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "https",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#https": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "https",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#reduceComponentsToState": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "reduceComponentsToState",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#reduceComponentsToState": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "reduceComponentsToState",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#headManager": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "headManager",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#headManager": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "headManager",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#inAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "inAmpMode",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#inAmpMode": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "inAmpMode",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#value": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "value",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#value": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "value",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-blur-svg.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-blur-svg.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-blur-svg.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-blur-svg.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-blur-svg.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-blur-svg.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-blur-svg.js#getImageBlurSvg": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "getImageBlurSvg",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-blur-svg.js#getImageBlurSvg": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
-      "name": "getImageBlurSvg",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config-context.js#ImageConfigContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "ImageConfigContext",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config-context.js#ImageConfigContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "ImageConfigContext",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-loader.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-loader.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-loader.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-loader.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-loader.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-loader.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-loader.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-loader.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\match-remote-pattern.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\match-remote-pattern.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\match-remote-pattern.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\match-remote-pattern.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\side-effect.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\side-effect.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\side-effect.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\side-effect.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\side-effect.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\side-effect.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\side-effect.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\side-effect.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils\\warn-once.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils\\warn-once.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils\\warn-once.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils\\warn-once.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils\\warn-once.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils\\warn-once.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils\\warn-once.js#warnOnce": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "warnOnce",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils\\warn-once.js#warnOnce": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
-      "name": "warnOnce",
-      "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx": {
-      "id": "(app-client)/./components/content/CardProject.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx#": {
-      "id": "(app-client)/./components/content/CardProject.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx#default": {
-      "id": "(app-client)/./components/content/CardProject.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx": {
-      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx#": {
-      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx#default": {
-      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx": {
-      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#": {
-      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#default": {
-      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
-      ],
-      "async": false
-    },
     "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\styles\\globals.css#": {
       "id": "null",
       "name": "default",
@@ -12998,6 +11878,30 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx": {
+      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx#": {
+      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx#default": {
+      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -14062,6 +12966,1102 @@ self.__RSC_MANIFEST={
       "name": "",
       "chunks": [
         "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CurrentTimeLineExp.tsx": {
+      "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CurrentTimeLineExp.tsx#": {
+      "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CurrentTimeLineExp.tsx#default": {
+      "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\FavProjects.tsx": {
+      "id": "(app-client)/./components/content/FavProjects.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\FavProjects.tsx#": {
+      "id": "(app-client)/./components/content/FavProjects.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\FavProjects.tsx#default": {
+      "id": "(app-client)/./components/content/FavProjects.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\TimeLineExp.tsx": {
+      "id": "(app-client)/./components/content/TimeLineExp.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\TimeLineExp.tsx#": {
+      "id": "(app-client)/./components/content/TimeLineExp.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\TimeLineExp.tsx#Timeline": {
+      "id": "(app-client)/./components/content/TimeLineExp.tsx",
+      "name": "Timeline",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\TimeLineExp.tsx#TimelineEvent": {
+      "id": "(app-client)/./components/content/TimeLineExp.tsx",
+      "name": "TimelineEvent",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllFavTechs.tsx": {
+      "id": "(app-client)/./components/icons/AllFavTechs.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllFavTechs.tsx#": {
+      "id": "(app-client)/./components/icons/AllFavTechs.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllFavTechs.tsx#default": {
+      "id": "(app-client)/./components/icons/AllFavTechs.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllLearnTechs.tsx": {
+      "id": "(app-client)/./components/icons/AllLearnTechs.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllLearnTechs.tsx#": {
+      "id": "(app-client)/./components/icons/AllLearnTechs.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\icons\\AllLearnTechs.tsx#default": {
+      "id": "(app-client)/./components/icons/AllLearnTechs.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\ui\\ExternalLink.tsx": {
+      "id": "(app-client)/./components/ui/ExternalLink.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\ui\\ExternalLink.tsx#": {
+      "id": "(app-client)/./components/ui/ExternalLink.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\ui\\ExternalLink.tsx#default": {
+      "id": "(app-client)/./components/ui/ExternalLink.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\ShowSkills.tsx": {
+      "id": "(app-client)/./components/utils/ShowSkills.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\ShowSkills.tsx#": {
+      "id": "(app-client)/./components/utils/ShowSkills.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\ShowSkills.tsx#default": {
+      "id": "(app-client)/./components/utils/ShowSkills.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-context.js#AmpStateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "AmpStateContext",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-context.js#AmpStateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "AmpStateContext",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-mode.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-mode.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-mode.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-mode.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-mode.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-mode.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\amp-mode.js#isInAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "isInAmpMode",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\amp-mode.js#isInAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/amp-mode.js",
+      "name": "isInAmpMode",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-blur-svg.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-blur-svg.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-blur-svg.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-blur-svg.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-blur-svg.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-blur-svg.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-blur-svg.js#getImageBlurSvg": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "getImageBlurSvg",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-blur-svg.js#getImageBlurSvg": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-blur-svg.js",
+      "name": "getImageBlurSvg",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config-context.js#ImageConfigContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "ImageConfigContext",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config-context.js#ImageConfigContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "ImageConfigContext",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-config.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-config.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-config.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-loader.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-loader.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-loader.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-loader.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-loader.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-loader.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\image-loader.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\image-loader.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/image-loader.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\match-remote-pattern.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\match-remote-pattern.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\match-remote-pattern.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\match-remote-pattern.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/match-remote-pattern.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\side-effect.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\side-effect.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\side-effect.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\side-effect.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\side-effect.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\side-effect.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\side-effect.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\side-effect.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/side-effect.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils\\warn-once.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils\\warn-once.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils\\warn-once.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils\\warn-once.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils\\warn-once.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils\\warn-once.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils\\warn-once.js#warnOnce": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "warnOnce",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils\\warn-once.js#warnOnce": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils/warn-once.js",
+      "name": "warnOnce",
+      "chunks": [
+        "app/(user)/page:static/chunks/app/(user)/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx": {
+      "id": "(app-client)/./components/content/CardProject.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx#": {
+      "id": "(app-client)/./components/content/CardProject.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx#default": {
+      "id": "(app-client)/./components/content/CardProject.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx": {
+      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx#": {
+      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx#default": {
+      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\htetoowaiyan.KMA208\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#default": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     }

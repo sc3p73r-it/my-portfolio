@@ -15,9 +15,9 @@ const CurrentTimeLineExp = () => {
         - Windows / Linux (Ubuntu, RHEL Base) Server Administration<br />
         - Implementation and Deployment of IT Asset Management system (Snipe-IT).<br />
         - Managed IT Assets & Inventory Management<br />
-        - Implementation of Project Management & Helpdesk System with OpenProject <br />
+        - Implementation of Project Management System with OpenProject <br />
         - Active Directory Monitoring with ADAudit Plus<br />
-        - Managing MySQL and PostgreSQL <br />
+        - Managing MySQL and PostgreSQL Databases <br />
         - Managing VMware ESXI and vCenter<br />
         - YSoft SAFEQ Software with print management, integrated with active directory for the user <br /> &nbsp; authentication and document printing and scanning. <br />
         - Implementing best practices for system security and data backups.<br />
