@@ -3,39 +3,63 @@ import AnimationContainer from '../utils/AnimationContainer';
 const myWorkProcess = [
   {
     id: '1',
-    title: 'Meeting',
-    des: 'The first step is to hold a meeting to learn about your expectations, objectives and project requirements. It is important to discuss the scope of the project, the resources required and the project delivery schedule.',
+    title: '01 - Assessment and Planning',
+    des: 'Identify the need for migration (e.g., outdated hardware, scalability requirements). Assess current server environment, including hardware, software, and configurations.',
     delay: 0.3
   },
   {
     id: '2',
-    title: 'Prototyping',
-    des: 'With the action plan already defined, the web designs are made. Through Figma, mockups will be presented so that you have an image of what will be your website with the chosen colors and fonts, adapted for all devices and prioritizing usability.',
+    title: '02 - Backup Plan',
+    des: 'Perform a full backup of all data and configurations on the existing server. Verify the integrity of the backup to ensure all critical data is captured accurately.',
     delay: 0.4
   },
   {
     id: '3',
-    title: 'SEO and content',
-    des: 'The next step is to implement an SEO and content strategy to help improve a website´s visibility in search engine results, which can generate more traffic and improve the quality of visitors.In addition, a well- structured content strategy can also contribute to better and longer - lasting results.',
+    title: '03 - Setup New Environment',
+    des: 'Install necessary operating system, software, and applications. Configure network settings, security measures, and access controls.',
     delay: 0.5
   },
   {
     id: '4',
-    title: 'Development phase',
-    des: 'Once the design has been approved, the layout will be designed in the test environment and all the functionalities will be implemented so that the website takes shape. In the case that a website with SEO and content has been contracted, they will also be applied in this phase.',
+    title: '04 - Data Migration',
+    des: 'Transfer data from the old server to the new server using appropriate methods (e.g., rsync, FTP, database dumps). ',
     delay: 0.6
   },
   {
     id: '5',
-    title: 'Test phase',
-    des: 'You want a beautiful website, but you also want it to work perfectly, so in this phase we do all kinds of tests to make sure it´s fast, accessible, intuitive, secure, with a good responsive design, etc.',
+    title: '05 - Testing phase',
+    des: 'Test applications, services, and configurations to identify any issues or compatibility issues. Perform performance testing to ensure the new server meets performance requirements.',
     delay: 0.7
   },
   {
     id: '6',
-    title: 'Migration',
-    des: 'You are done. Congratulations, you have a website created by me. You will also have the option to hire my web maintenance service, so that it is always updated and ready.',
+    title: '06 - Final Data Sync and Cutover',
+    des: 'Perform a final data sync or delta migration to ensure any changes made on the old server during the migration process are reflected on the new server.',
     delay: 0.8
+  },
+  {
+    id: '7',
+    title: '07 - Post-Migration Validation',
+    des: 'Verify that all services and applications are functioning as expected on the new server. Test accessibility and functionality from different client environments.',
+    delay: 0.9
+  },
+  {
+    id: '8',
+    title: '08 - Monitoring and Optimization',
+    des: 'Set up monitoring tools to track server performance and stability post-migration. Optimize configurations and settings based on monitoring data to ensure optimal performance.',
+    delay: 0.10
+  },
+  {
+    id: '9',
+    title: '09 - Documentation',
+    des: 'Document the migration process, including any challenges encountered and solutions implemented.',
+    delay: 0.11
+  },
+  {
+    id: '10',
+    title: '10 - Post-Migration Review',
+    des: 'Conduct a post-migration review to evaluate the success of the migration process against the initial goals and requirements.',
+    delay: 0.12
   },
 ];
 

@@ -31,7 +31,7 @@ const Head = () => {
       <meta property='og:description' content={meta.description} />
       <meta property='og:title' content={meta.title} />
       <meta name='twitter:card' content='summary_large_image' />
-      <meta name='twitter:site' content='@jeandv_' />
+      <meta name='twitter:site' content='@sc3p73r' />
       <meta name='twitter:title' content={meta.title} />
       <meta name='twitter:description' content={meta.description} />
     </>
