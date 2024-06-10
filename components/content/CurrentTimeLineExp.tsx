@@ -14,7 +14,7 @@ const CurrentTimeLineExp = () => {
         <TimelineEvent.Description>
         - Windows / Linux (Ubuntu, RHEL Base) Server Administration<br />
         - Implementation and Deployment of IT Asset Management system (Snipe-IT).<br />
-        - Provided support for Oracle Opera PMS related client setup, user permission, printer configuration, etc. <br />
+        - Provided support for Oracle Opera PMS V5 related client setup, user permission, printer configuration, etc. <br />
         - Managed IT Assets & Inventory Management<br />
         - Implementation of Project Management System with OpenProject <br />
         - Active Directory Monitoring with ADAudit Plus<br />
