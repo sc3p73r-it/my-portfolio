@@ -1,3 +1,25 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[4].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[4].use[2]!./node_modules/next/font/local/target.css?{"path":"app\\(user)\\layout.tsx","import":"","arguments":[{"src":[{"path":"../../public/fonts/Graphik-Regular.ttf","weight":"400","style":"normal"},{"path":"../../public/fonts/Graphik-Medium.ttf","weight":"600","style":"bold"}],"variable":"--font-graphik","display":"swap"}],"variableName":"graphik"} ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__graphik_df07f5';
+src: url(/_next/static/media/5863dc867561b465-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 400;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__graphik_df07f5';
+src: url(/_next/static/media/c78e5b1fb9b48c59-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 600;
+font-style: bold;
+}@font-face {font-family: '__graphik_Fallback_df07f5';src: local("Arial");ascent-override: 76.92%;descent-override: 17.11%;line-gap-override: 9.40%;size-adjust: 106.34%
+}.__className_df07f5 {font-family: '__graphik_df07f5', '__graphik_Fallback_df07f5'
+}.__variable_df07f5 {--font-graphik: '__graphik_df07f5', '__graphik_Fallback_df07f5'
+}
+
 /*!**************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[3]!./styles/globals.css ***!
   \**************************************************************************************************************************************************************************************************************************************************************/
@@ -1507,28 +1529,6 @@ table {
     font-size: 3rem;
     line-height: 1;
   }
-}
-
-/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[4].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[4].use[2]!./node_modules/next/font/local/target.css?{"path":"app\\(user)\\layout.tsx","import":"","arguments":[{"src":[{"path":"../../public/fonts/Graphik-Regular.ttf","weight":"400","style":"normal"},{"path":"../../public/fonts/Graphik-Medium.ttf","weight":"600","style":"bold"}],"variable":"--font-graphik","display":"swap"}],"variableName":"graphik"} ***!
-  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
-@font-face {
-font-family: '__graphik_df07f5';
-src: url(/_next/static/media/5863dc867561b465-s.p.ttf) format('truetype');
-font-display: swap;
-font-weight: 400;
-font-style: normal;
-}
-
-@font-face {
-font-family: '__graphik_df07f5';
-src: url(/_next/static/media/c78e5b1fb9b48c59-s.p.ttf) format('truetype');
-font-display: swap;
-font-weight: 600;
-font-style: bold;
-}@font-face {font-family: '__graphik_Fallback_df07f5';src: local("Arial");ascent-override: 76.92%;descent-override: 17.11%;line-gap-override: 9.40%;size-adjust: 106.34%
-}.__className_df07f5 {font-family: '__graphik_df07f5', '__graphik_Fallback_df07f5'
-}.__variable_df07f5 {--font-graphik: '__graphik_df07f5', '__graphik_Fallback_df07f5'
 }
 
 /*!**********************************************************************************************************************************************************************************************************************************************************************!*\
