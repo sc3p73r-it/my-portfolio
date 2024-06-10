@@ -14,11 +14,12 @@ const CurrentTimeLineExp = () => {
         <TimelineEvent.Description>
         - Windows / Linux (Ubuntu, RHEL Base) Server Administration<br />
         - Implementation and Deployment of IT Asset Management system (Snipe-IT).<br />
+        - Provided support for Oracle Opera PMS related client setup, user permission, printer configuration, etc. <br />
         - Managed IT Assets & Inventory Management<br />
         - Implementation of Project Management System with OpenProject <br />
         - Active Directory Monitoring with ADAudit Plus<br />
         - Managing MySQL and PostgreSQL Databases <br />
-        - Managing VMware ESXI and vCenter<br />
+        - Managing VMware vSphere administration such as vMotion, Fault tolerance, Hight Availability.<br />
         - YSoft SAFEQ Software with print management, integrated with active directory for the user <br /> &nbsp; authentication and document printing and scanning. <br />
         - Implementing best practices for system security and data backups.<br />
         - Develop system-monitoring and support automation to enhance and scale the quality of support<br />
