@@ -13,16 +13,15 @@ const CurrentTimeLineExp = () => {
 
         <TimelineEvent.Description>
         - Windows / Linux (Ubuntu, RHEL Base) Server Administration<br />
-        - Implementation and Deployment of IT Asset Management system (Snipe-IT).<br />
-        - Provided support for Oracle Opera PMS V5 related client setup, user permission, printer <br /> &nbsp; configuration, etc. <br />
-        - Managed IT Assets & Inventory Management<br />
-        - Implementation of Project Management System with OpenProject <br />
-        - Active Directory Monitoring with ADAudit Plus<br />
+        - Implementation and Deployment of IT Asset Management system.<br />
+        - Deployment HAProxy as Reverse Proxy <br />
+        - Various server backups are managed using Veeam Backup & Replication.<br />
         - Managing MySQL and PostgreSQL Databases <br />
         - Managing VMware vSphere administration such as vMotion, Fault tolerance, Hight Availability.<br />
         - YSoft SAFEQ Software with print management, integrated with active directory for the user <br /> &nbsp; authentication and document printing and scanning. <br />
         - Implementing best practices for system security and data backups.<br />
-        - Develop system-monitoring and support automation to enhance and scale the quality of support<br />
+        - Develop system-monitoring and support automation to enhance and scale the quality of support <br />
+        - Experienced working with virtualization, containerization and monitoring tools like <br />&nbsp; zabbix, grafana. <br />
         - Evaluates the existing systems and provides the technical direction to IT support staff.<br />
         </TimelineEvent.Description>
 
@@ -34,12 +33,12 @@ const CurrentTimeLineExp = () => {
 
         <TimelineEvent.Description>
          - Defining multiple virtual servers on a single host machine on VMware ESXI 6.5 and <br /> &nbsp; Proxmox Virtual Environment. <br />
-         - Installing and configuring operating systems and application software<br />
+         - Designing, deploying, and maintaining cloud infrastructure.<br />
+         - Administer existing and deploy new AWS EC2 instances, and related infrastructure. <br />
          - Managing the Active Directory user & group and helath checks <br />
          - Implementing the redmine open-source project management system on Linux VM for the <br /> &nbsp; developer need.<br />
          - IT Assets controlling and manage the assets management application<br />
          - Implementing best practices for system security and application software<br />
-         - Implementing the development environments for the Odoo ERP source code and database <br /> &nbsp; migration process<br />
          - Development testing on Odoo ERP and Postgres Sql Administration<br />
          - Amazon Cloudwatch Monitoring (ec2,ebs,s3,rds) on grafana dashboard<br />
         </TimelineEvent.Description>

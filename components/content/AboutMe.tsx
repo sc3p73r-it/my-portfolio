@@ -9,7 +9,7 @@ const AboutMe = () => {
       </h2>
 
       <p className='text-base text-gray-400'>
-      I have over five years of experience in the IT Industry related to Network and Systems. I have responsible for focusing on Open-Source platform in the working environment. I have handled and solve the Windows & Linux Server issues.
+      I have over six years of experience in the IT Industry related to Network and Systems. I have responsible for focusing on Open-Source platform in the working environment. I have handled and solve the Windows & Linux Server issues.
       </p>
 
     </AnimationContainer>
