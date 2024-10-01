@@ -13,8 +13,11 @@ const CurrentTimeLineExp = () => {
 
         <TimelineEvent.Description>
         - Windows / Linux (Ubuntu, RHEL Base) Server Administration<br />
-        - Implementation and Deployment of IT Asset Management system.<br />
+        - Administration of multiple NAS appliances and SAN Storage providing File, Block, and Object <br /> &nbsp; storage solutions.<br />
+        - Managed IT Assets & Inventory Management with Open-Source System <br />
         - Deployment HAProxy as Reverse Proxy <br />
+        - Implementation container orchestration with kubernetes <br />
+        - Experience deploying and managing application with Helm <br />
         - Various server backups are managed using Veeam Backup & Replication.<br />
         - Managing MySQL and PostgreSQL Databases <br />
         - Managing VMware vSphere administration such as vMotion, Fault tolerance, Hight Availability.<br />
