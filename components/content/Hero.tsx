@@ -24,7 +24,7 @@ const Hero = () => {
           alt='Sc3p73R'
           height={176}
           width={176}
-          src='/my_profile.jpg'
+          src='/my.jpg'
           sizes='30vw'
           priority
           className='rounded-[8px] filter grayscale hover:grayscale-0 transition ease'
