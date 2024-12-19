@@ -11,7 +11,7 @@ const Head = () => {
 
   const meta = {
     title: `Sc3p73R | SysAdmin ${pathname === '/' ? '' : '· ' + titleFixedToShow}`,
-    description: `I have over five years of experience in the IT Industry related to Network and Systems. I have responsible for focusing on Open-Source platform in the working environment. I have handled and solve the Windows & Linux Server issues.`,
+    description: `I have six five years of experience in the IT Industry related to Network and Systems. I have responsible for focusing on Open-Source platform in the working environment. I have handled and solve the Windows & Linux Server issues.`,
     keywords: 'Sc3p73R, Wai Yan, Sc3p73R github, Linux, AWS, Container, Kubernetes.',
     type: 'website'
   };

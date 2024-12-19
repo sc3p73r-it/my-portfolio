@@ -1417,10 +1417,6 @@ table {
   --tw-text-opacity: 1;
   color: rgb(6 109 165 / var(--tw-text-opacity));
 }
-.hover\:text-\[\#326DE6\]:hover {
-  --tw-text-opacity: 1;
-  color: rgb(50 109 230 / var(--tw-text-opacity));
-}
 .hover\:text-gray-600:hover {
   --tw-text-opacity: 1;
   color: rgb(68 68 68 / var(--tw-text-opacity));

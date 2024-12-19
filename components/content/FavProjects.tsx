@@ -93,14 +93,12 @@ const favProjects = [
     repo: 'https://github.com/sc3p73r-it/redmine',
     link: 'https://pms.mdgportal.com'
   },
-  // {
-  //   image:
-  //     'https://cdn.sanity.io/images/jqaxrty6/production/bb12572785fdc98c304ff9823cab3f60bc16f8b7-1422x809.png',
-  //   title: 'Github Issues',
-  //   category: 'React - React Query - TypeScript - Bootstrap',
-  //   repo: 'https://github.com/jeandv/react-query',
-  //   link: 'https://github.com/jeandv/react-query'
-  // },
+  {
+    image:
+      'https://sc3p73r.sirv.com/Microsoft%20365/report.png',
+    title: 'Microsoft 365 Tenant to Tenant Migration',
+    category: 'M365 Migration',
+  },
   // {
   //   image:
   //     'https://cdn.sanity.io/images/jqaxrty6/production/0844f66435c099fb020b8235657491a3166bd713-1280x800.png',
