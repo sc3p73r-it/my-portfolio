@@ -3427,7 +3427,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/content/CurrentTimeLineExp.tsx",
         "name": "*",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       },
@@ -3435,7 +3435,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/content/CurrentTimeLineExp.tsx",
         "name": "",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       },
@@ -3443,7 +3443,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/content/CurrentTimeLineExp.tsx",
         "name": "default",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       }
@@ -3479,7 +3479,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/content/TimeLineExp.tsx",
         "name": "*",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       },
@@ -3487,7 +3487,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/content/TimeLineExp.tsx",
         "name": "",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       },
@@ -3495,7 +3495,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/content/TimeLineExp.tsx",
         "name": "Timeline",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       },
@@ -3503,7 +3503,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/content/TimeLineExp.tsx",
         "name": "TimelineEvent",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       }
@@ -4182,6 +4182,32 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./components/utils/TitleSectionPageContainer.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./components/content/CardProject.tsx": {
       "*": {
         "id": "(sc_client)/./components/content/CardProject.tsx",
@@ -4230,32 +4256,6 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/utils/TitleSectionPageContainer.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       }
@@ -11712,7 +11712,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
       "name": "*",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11720,7 +11720,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
       "name": "",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11728,7 +11728,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
       "name": "default",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11760,7 +11760,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/content/TimeLineExp.tsx",
       "name": "*",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11768,7 +11768,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/content/TimeLineExp.tsx",
       "name": "",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11776,7 +11776,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/content/TimeLineExp.tsx",
       "name": "Timeline",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11784,7 +11784,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/content/TimeLineExp.tsx",
       "name": "TimelineEvent",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -13993,6 +13993,30 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#default": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
     "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx": {
       "id": "(app-client)/./components/content/CardProject.tsx",
       "name": "*",
@@ -14038,30 +14062,6 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx": {
-      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#": {
-      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#default": {
-      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     }
