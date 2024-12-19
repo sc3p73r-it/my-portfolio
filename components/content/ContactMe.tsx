@@ -29,7 +29,7 @@ const ContactMe = () => {
                 Phone
               </h6>
               <p className='text-base mt-2 text-gray-400'>
-                +959443167419 
+                +959950411201
               </p>
             </div>
           </a>

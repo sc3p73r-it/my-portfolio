@@ -24,9 +24,9 @@ const AboutSection = () => {
             I have a solid experience in Windows & Linux Server Administration, Active Directory Management, IT Asset Management(Snipe-IT), Open-Source Software, Manage system upgrades and migrations, ensuring minimal disruption to business operations.
           </p>
 
-          <p className='text-base text-gray-400'>
-            comming soon !!!
-          </p>
+          {/* <p className='text-base text-gray-400'>
+           
+          </p> */}
 
         </AnimationContainer>
 
