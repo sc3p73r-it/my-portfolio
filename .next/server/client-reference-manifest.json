@@ -1755,7 +1755,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
         "name": "*",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       },
@@ -1763,7 +1763,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
         "name": "",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       },
@@ -1771,7 +1771,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
         "name": "default",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       }
@@ -3401,7 +3401,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
         "name": "*",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       },
@@ -3409,7 +3409,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
         "name": "",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       },
@@ -3417,7 +3417,405 @@
         "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
         "name": "default",
         "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/head.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/head.tsx",
+        "name": "*",
+        "chunks": [
           "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/head.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/head.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/FlareCursor.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/LinksMenuNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/LinksNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/LinksNav.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/LinksNav.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/LinksNav.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "navItemsSelected": {
+        "id": "(sc_client)/./components/ui/LinksNav.tsx",
+        "name": "navItemsSelected",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/MobileMenuNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/NavItem.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/NavItem.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/NavItem.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/NavItem.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/utils/AnimationContainer.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/utils/HeaderAnimation.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./hooks/useMenuNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./hooks/useMenuNav.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./hooks/useMenuNav.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./hooks/useMenuNav.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./hooks/useScrollPosition.tsx": {
+      "*": {
+        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
+        "name": "",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/add-locale.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "*",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "default",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/get-domain-locale.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "*",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "default",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/request-idle-callback.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "*",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "default",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/use-intersection.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "*",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "default",
+        "chunks": [
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       }
@@ -3427,7 +3825,7 @@
         "id": "(sc_client)/./components/content/CurrentTimeLineExp.tsx",
         "name": "*",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       },
@@ -3435,7 +3833,7 @@
         "id": "(sc_client)/./components/content/CurrentTimeLineExp.tsx",
         "name": "",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       },
@@ -3443,7 +3841,7 @@
         "id": "(sc_client)/./components/content/CurrentTimeLineExp.tsx",
         "name": "default",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       }
@@ -3479,7 +3877,7 @@
         "id": "(sc_client)/./components/content/TimeLineExp.tsx",
         "name": "*",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       },
@@ -3487,7 +3885,7 @@
         "id": "(sc_client)/./components/content/TimeLineExp.tsx",
         "name": "",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       },
@@ -3495,7 +3893,7 @@
         "id": "(sc_client)/./components/content/TimeLineExp.tsx",
         "name": "Timeline",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       },
@@ -3503,7 +3901,7 @@
         "id": "(sc_client)/./components/content/TimeLineExp.tsx",
         "name": "TimelineEvent",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
         ],
         "async": false
       }
@@ -3586,38 +3984,12 @@
         "async": false
       }
     },
-    "(app-client)/./components/utils/AnimationContainer.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/utils/AnimationContainer.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./components/utils/ShowSkills.tsx": {
       "*": {
         "id": "(sc_client)/./components/utils/ShowSkills.tsx",
         "name": "*",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
         ],
         "async": false
       },
@@ -3625,7 +3997,7 @@
         "id": "(sc_client)/./components/utils/ShowSkills.tsx",
         "name": "",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
         ],
         "async": false
       },
@@ -3633,7 +4005,7 @@
         "id": "(sc_client)/./components/utils/ShowSkills.tsx",
         "name": "default",
         "chunks": [
-          "app/(user)/page:static/chunks/app/(user)/page.js"
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
         ],
         "async": false
       }
@@ -3810,374 +4182,80 @@
         "async": false
       }
     },
-    "(app-client)/./app/head.tsx": {
+    "(app-client)/./components/utils/TitleSectionPageContainer.tsx": {
       "*": {
-        "id": "(sc_client)/./app/head.tsx",
+        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
         "name": "*",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./app/head.tsx",
+        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
         "name": "",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./app/head.tsx",
+        "id": "(sc_client)/./components/utils/TitleSectionPageContainer.tsx",
         "name": "default",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./components/ui/FlareCursor.tsx": {
+    "(app-client)/./components/content/CardProject.tsx": {
       "*": {
-        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
+        "id": "(sc_client)/./components/content/CardProject.tsx",
         "name": "*",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
+        "id": "(sc_client)/./components/content/CardProject.tsx",
         "name": "",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./components/ui/FlareCursor.tsx",
+        "id": "(sc_client)/./components/content/CardProject.tsx",
         "name": "default",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./components/ui/LinksMenuNav.tsx": {
+    "(app-client)/./components/content/SearchAllProjects.tsx": {
       "*": {
-        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
+        "id": "(sc_client)/./components/content/SearchAllProjects.tsx",
         "name": "*",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
+        "id": "(sc_client)/./components/content/SearchAllProjects.tsx",
         "name": "",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./components/ui/LinksMenuNav.tsx",
+        "id": "(sc_client)/./components/content/SearchAllProjects.tsx",
         "name": "default",
         "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/LinksNav.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/LinksNav.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/LinksNav.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/LinksNav.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "navItemsSelected": {
-        "id": "(sc_client)/./components/ui/LinksNav.tsx",
-        "name": "navItemsSelected",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/MobileMenuNav.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/MobileMenuNav.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/NavItem.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/NavItem.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/NavItem.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/NavItem.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/utils/HeaderAnimation.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/utils/HeaderAnimation.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./hooks/useMenuNav.tsx": {
-      "*": {
-        "id": "(sc_client)/./hooks/useMenuNav.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./hooks/useMenuNav.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./hooks/useMenuNav.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./hooks/useScrollPosition.tsx": {
-      "*": {
-        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./hooks/useScrollPosition.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/add-locale.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/get-domain-locale.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/request-idle-callback.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/use-intersection.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
-        "name": "*",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
-        "name": "",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
-        "name": "default",
-        "chunks": [
-          "app/(user)/layout:static/chunks/app/(user)/layout.js"
+          "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
         ],
         "async": false
       }
@@ -8002,7 +8080,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "*",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -8010,7 +8088,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "*",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -8018,7 +8096,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -8026,7 +8104,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -8034,7 +8112,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "default",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -8042,7 +8120,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "default",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11170,7 +11248,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11178,7 +11256,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11186,7 +11264,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11194,7 +11272,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11202,7 +11280,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "default",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11210,7 +11288,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "default",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11282,7 +11360,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "*",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11290,7 +11368,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "*",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11298,7 +11376,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11306,7 +11384,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11314,7 +11392,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "__esModule",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11322,7 +11400,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "__esModule",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11330,7 +11408,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "addPathPrefix",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11338,7 +11416,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "addPathPrefix",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11506,7 +11584,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "*",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11514,7 +11592,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "*",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11522,7 +11600,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11530,7 +11608,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11538,7 +11616,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "__esModule",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11546,7 +11624,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "__esModule",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11554,7 +11632,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "parsePath",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11562,7 +11640,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "parsePath",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11570,7 +11648,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11578,7 +11656,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11586,7 +11664,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11594,7 +11672,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11602,7 +11680,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "__esModule",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11610,7 +11688,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "__esModule",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11618,7 +11696,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "removeTrailingSlash",
       "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11626,7 +11704,1268 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "removeTrailingSlash",
       "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\styles\\globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/(user)/layout.css"
+      ]
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\font\\local\\target.css?{\"path\":\"app\\\\(user)\\\\layout.tsx\",\"import\":\"\",\"arguments\":[{\"src\":[{\"path\":\"../../public/fonts/Graphik-Regular.ttf\",\"weight\":\"400\",\"style\":\"normal\"},{\"path\":\"../../public/fonts/Graphik-Medium.ttf\",\"weight\":\"600\",\"style\":\"bold\"}],\"variable\":\"--font-graphik\",\"display\":\"swap\"}],\"variableName\":\"graphik\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/(user)/layout.css"
+      ]
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\styles\\mobileMenu.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/(user)/layout.css"
+      ]
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\app\\head.tsx": {
+      "id": "(app-client)/./app/head.tsx",
+      "name": "*",
+      "chunks": [
         "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\app\\head.tsx#": {
+      "id": "(app-client)/./app/head.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\app\\head.tsx#default": {
+      "id": "(app-client)/./app/head.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\FlareCursor.tsx": {
+      "id": "(app-client)/./components/ui/FlareCursor.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\FlareCursor.tsx#": {
+      "id": "(app-client)/./components/ui/FlareCursor.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\FlareCursor.tsx#default": {
+      "id": "(app-client)/./components/ui/FlareCursor.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksMenuNav.tsx": {
+      "id": "(app-client)/./components/ui/LinksMenuNav.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksMenuNav.tsx#": {
+      "id": "(app-client)/./components/ui/LinksMenuNav.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksMenuNav.tsx#default": {
+      "id": "(app-client)/./components/ui/LinksMenuNav.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksNav.tsx": {
+      "id": "(app-client)/./components/ui/LinksNav.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksNav.tsx#": {
+      "id": "(app-client)/./components/ui/LinksNav.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksNav.tsx#default": {
+      "id": "(app-client)/./components/ui/LinksNav.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksNav.tsx#navItemsSelected": {
+      "id": "(app-client)/./components/ui/LinksNav.tsx",
+      "name": "navItemsSelected",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\MobileMenuNav.tsx": {
+      "id": "(app-client)/./components/ui/MobileMenuNav.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\MobileMenuNav.tsx#": {
+      "id": "(app-client)/./components/ui/MobileMenuNav.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\MobileMenuNav.tsx#default": {
+      "id": "(app-client)/./components/ui/MobileMenuNav.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\NavItem.tsx": {
+      "id": "(app-client)/./components/ui/NavItem.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\NavItem.tsx#": {
+      "id": "(app-client)/./components/ui/NavItem.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\NavItem.tsx#default": {
+      "id": "(app-client)/./components/ui/NavItem.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx": {
+      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx#": {
+      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx#default": {
+      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\HeaderAnimation.tsx": {
+      "id": "(app-client)/./components/utils/HeaderAnimation.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\HeaderAnimation.tsx#": {
+      "id": "(app-client)/./components/utils/HeaderAnimation.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\HeaderAnimation.tsx#default": {
+      "id": "(app-client)/./components/utils/HeaderAnimation.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useMenuNav.tsx": {
+      "id": "(app-client)/./hooks/useMenuNav.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useMenuNav.tsx#": {
+      "id": "(app-client)/./hooks/useMenuNav.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useMenuNav.tsx#default": {
+      "id": "(app-client)/./hooks/useMenuNav.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useScrollPosition.tsx": {
+      "id": "(app-client)/./hooks/useScrollPosition.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useScrollPosition.tsx#": {
+      "id": "(app-client)/./hooks/useScrollPosition.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useScrollPosition.tsx#default": {
+      "id": "(app-client)/./hooks/useScrollPosition.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\add-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\add-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\add-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\add-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\add-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\add-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\get-domain-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\get-domain-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\get-domain-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\has-base-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\has-base-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\has-base-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\has-base-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\has-base-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\has-base-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\request-idle-callback.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\request-idle-callback.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\request-idle-callback.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\use-intersection.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\use-intersection.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\use-intersection.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\use-intersection.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\use-intersection.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\use-intersection.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "default",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#escapeStringRegexp": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "escapeStringRegexp",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#escapeStringRegexp": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "escapeStringRegexp",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js#RouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "RouterContext",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#RouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "RouterContext",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\format-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\format-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\format-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\format-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#interpolateAs": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "interpolateAs",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#interpolateAs": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "interpolateAs",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#isDynamicRoute": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "isDynamicRoute",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#isDynamicRoute": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "isDynamicRoute",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#isLocalURL": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "isLocalURL",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#isLocalURL": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "isLocalURL",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#omit": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "omit",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#omit": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "omit",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#pathHasPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "pathHasPrefix",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#pathHasPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "pathHasPrefix",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\querystring.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\querystring.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\querystring.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\querystring.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#resolveHref": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "resolveHref",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#resolveHref": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "resolveHref",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#getRouteMatcher": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "getRouteMatcher",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#getRouteMatcher": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "getRouteMatcher",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-regex.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-regex.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-regex.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-regex.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
       ],
       "async": false
     },
@@ -11634,7 +12973,7 @@
       "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
       "name": "*",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11642,7 +12981,7 @@
       "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
       "name": "",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11650,7 +12989,7 @@
       "id": "(app-client)/./components/content/CurrentTimeLineExp.tsx",
       "name": "default",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11682,7 +13021,7 @@
       "id": "(app-client)/./components/content/TimeLineExp.tsx",
       "name": "*",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11690,7 +13029,7 @@
       "id": "(app-client)/./components/content/TimeLineExp.tsx",
       "name": "",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11698,7 +13037,7 @@
       "id": "(app-client)/./components/content/TimeLineExp.tsx",
       "name": "Timeline",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11706,7 +13045,7 @@
       "id": "(app-client)/./components/content/TimeLineExp.tsx",
       "name": "TimelineEvent",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/about/page:static/chunks/app/(user)/about/page.js"
       ],
       "async": false
     },
@@ -11782,35 +13121,11 @@
       ],
       "async": false
     },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx": {
-      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx#": {
-      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\AnimationContainer.tsx#default": {
-      "id": "(app-client)/./components/utils/AnimationContainer.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
     "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\ShowSkills.tsx": {
       "id": "(app-client)/./components/utils/ShowSkills.tsx",
       "name": "*",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
       ],
       "async": false
     },
@@ -11818,7 +13133,7 @@
       "id": "(app-client)/./components/utils/ShowSkills.tsx",
       "name": "",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
       ],
       "async": false
     },
@@ -11826,7 +13141,7 @@
       "id": "(app-client)/./components/utils/ShowSkills.tsx",
       "name": "default",
       "chunks": [
-        "app/(user)/page:static/chunks/app/(user)/page.js"
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
       ],
       "async": false
     },
@@ -12678,1240 +13993,75 @@
       ],
       "async": false
     },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\styles\\globals.css#": {
-      "id": "null",
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\TitleSectionPageContainer.tsx#default": {
+      "id": "(app-client)/./components/utils/TitleSectionPageContainer.tsx",
       "name": "default",
       "chunks": [
-        "static/css/app/(user)/layout.css"
-      ]
+        "app/(user)/blog/page:static/chunks/app/(user)/blog/page.js"
+      ],
+      "async": false
     },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\font\\local\\target.css?{\"path\":\"app\\\\(user)\\\\layout.tsx\",\"import\":\"\",\"arguments\":[{\"src\":[{\"path\":\"../../public/fonts/Graphik-Regular.ttf\",\"weight\":\"400\",\"style\":\"normal\"},{\"path\":\"../../public/fonts/Graphik-Medium.ttf\",\"weight\":\"600\",\"style\":\"bold\"}],\"variable\":\"--font-graphik\",\"display\":\"swap\"}],\"variableName\":\"graphik\"}#": {
-      "id": "null",
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx": {
+      "id": "(app-client)/./components/content/CardProject.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx#": {
+      "id": "(app-client)/./components/content/CardProject.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\content\\CardProject.tsx#default": {
+      "id": "(app-client)/./components/content/CardProject.tsx",
       "name": "default",
       "chunks": [
-        "static/css/app/(user)/layout.css"
-      ]
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
     },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\styles\\mobileMenu.module.css#": {
-      "id": "null",
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx": {
+      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx#": {
+      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
+      "name": "",
+      "chunks": [
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\content\\SearchAllProjects.tsx#default": {
+      "id": "(app-client)/./components/content/SearchAllProjects.tsx",
       "name": "default",
       "chunks": [
-        "static/css/app/(user)/layout.css"
-      ]
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\app\\head.tsx": {
-      "id": "(app-client)/./app/head.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\app\\head.tsx#": {
-      "id": "(app-client)/./app/head.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\app\\head.tsx#default": {
-      "id": "(app-client)/./app/head.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\FlareCursor.tsx": {
-      "id": "(app-client)/./components/ui/FlareCursor.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\FlareCursor.tsx#": {
-      "id": "(app-client)/./components/ui/FlareCursor.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\FlareCursor.tsx#default": {
-      "id": "(app-client)/./components/ui/FlareCursor.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksMenuNav.tsx": {
-      "id": "(app-client)/./components/ui/LinksMenuNav.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksMenuNav.tsx#": {
-      "id": "(app-client)/./components/ui/LinksMenuNav.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksMenuNav.tsx#default": {
-      "id": "(app-client)/./components/ui/LinksMenuNav.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksNav.tsx": {
-      "id": "(app-client)/./components/ui/LinksNav.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksNav.tsx#": {
-      "id": "(app-client)/./components/ui/LinksNav.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksNav.tsx#default": {
-      "id": "(app-client)/./components/ui/LinksNav.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\LinksNav.tsx#navItemsSelected": {
-      "id": "(app-client)/./components/ui/LinksNav.tsx",
-      "name": "navItemsSelected",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\MobileMenuNav.tsx": {
-      "id": "(app-client)/./components/ui/MobileMenuNav.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\MobileMenuNav.tsx#": {
-      "id": "(app-client)/./components/ui/MobileMenuNav.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\MobileMenuNav.tsx#default": {
-      "id": "(app-client)/./components/ui/MobileMenuNav.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\NavItem.tsx": {
-      "id": "(app-client)/./components/ui/NavItem.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\NavItem.tsx#": {
-      "id": "(app-client)/./components/ui/NavItem.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\ui\\NavItem.tsx#default": {
-      "id": "(app-client)/./components/ui/NavItem.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\HeaderAnimation.tsx": {
-      "id": "(app-client)/./components/utils/HeaderAnimation.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\HeaderAnimation.tsx#": {
-      "id": "(app-client)/./components/utils/HeaderAnimation.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\components\\utils\\HeaderAnimation.tsx#default": {
-      "id": "(app-client)/./components/utils/HeaderAnimation.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useMenuNav.tsx": {
-      "id": "(app-client)/./hooks/useMenuNav.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useMenuNav.tsx#": {
-      "id": "(app-client)/./hooks/useMenuNav.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useMenuNav.tsx#default": {
-      "id": "(app-client)/./hooks/useMenuNav.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useScrollPosition.tsx": {
-      "id": "(app-client)/./hooks/useScrollPosition.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useScrollPosition.tsx#": {
-      "id": "(app-client)/./hooks/useScrollPosition.tsx",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\hooks\\useScrollPosition.tsx#default": {
-      "id": "(app-client)/./hooks/useScrollPosition.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\add-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\add-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\add-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\add-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\add-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\add-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\get-domain-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\get-domain-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\get-domain-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\has-base-path.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\has-base-path.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\has-base-path.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\has-base-path.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\has-base-path.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\has-base-path.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\request-idle-callback.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\request-idle-callback.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\request-idle-callback.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\use-intersection.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\use-intersection.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\use-intersection.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\use-intersection.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\client\\use-intersection.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\client\\use-intersection.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "default",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#escapeStringRegexp": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "escapeStringRegexp",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#escapeStringRegexp": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "escapeStringRegexp",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js#RouterContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "RouterContext",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#RouterContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "RouterContext",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\format-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\format-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\format-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\format-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#interpolateAs": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "interpolateAs",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#interpolateAs": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "interpolateAs",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#isDynamicRoute": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "isDynamicRoute",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#isDynamicRoute": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "isDynamicRoute",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#isLocalURL": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "isLocalURL",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#isLocalURL": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "isLocalURL",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#omit": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "omit",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#omit": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "omit",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#pathHasPrefix": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "pathHasPrefix",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#pathHasPrefix": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "pathHasPrefix",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\querystring.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\querystring.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\querystring.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\querystring.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#resolveHref": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "resolveHref",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#resolveHref": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "resolveHref",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#getRouteMatcher": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "getRouteMatcher",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#getRouteMatcher": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "getRouteMatcher",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-regex.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-regex.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-regex.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-regex.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "*",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\shared\\lib\\utils.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\sc3p73r\\Documents\\Website\\my-portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "",
-      "chunks": [
-        "app/(user)/layout:static/chunks/app/(user)/layout.js"
+        "app/(user)/projects/page:static/chunks/app/(user)/projects/page.js"
       ],
       "async": false
     }

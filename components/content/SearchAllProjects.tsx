@@ -10,7 +10,7 @@ const allProjectsInfo = [
     id: '1',
     title: 'Snipe-IT Asset Managment System',
     des: 'Powerful IT Asset Management System our team will love.',
-    category: 'Open-Source',
+    category: 'Open-Source - IT Asset',
     repo: 'https://github.com/sc3p73r-it/snipe-it',
     link: 'https://assets.kmagroup.com.mm'
   },
@@ -18,17 +18,15 @@ const allProjectsInfo = [
     id: '2',
     title: 'Redmine',
     des: 'Open Source Project Management System. ',
-    category: 'Open-Source',
+    category: 'Open-Source - PMS',
     repo: 'https://github.com/sc3p73r-it/redmine',
     link: 'https://pms.mdgportal.com'
   },
   {
     id: '3',
-    title: 'OpenProject',
+    title: 'Myanmar Metro Bank Core Banking Project',
     des: 'Open Source Project Management System Software is powerful classic, agile or hybrid project management in a secure environment.',
-    category: 'Open-Source', 
-    repo: 'https://openproject.com/',
-    link: 'http://projects.kmagroup.com.mm/'
+    category: 'System', 
   },
   // {
   //   id: '5',
