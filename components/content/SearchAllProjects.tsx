@@ -9,7 +9,7 @@ const allProjectsInfo = [
   {
     id: '1',
     title: 'Snipe-IT Asset Managment System',
-    des: 'Powerful IT Asset Management System our team will love.',
+    des: 'IT Asset Management System.',
     category: 'Open-Source - IT Asset',
     repo: 'https://github.com/sc3p73r-it/snipe-it',
     link: 'https://assets.kmagroup.com.mm'
