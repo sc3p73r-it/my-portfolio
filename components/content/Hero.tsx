@@ -9,7 +9,7 @@ const Hero = () => {
           Htet Oo Wai Yan
         </h1>
         <h2 className='flex items-center gap-2 text-1xl lg:text-1xl text-gray-200 mb-8 mx-auto lg:mx-0'>
-          <span className='font-semibold'>System</span>Engineer
+          <span className='font-semibold'>Senior System</span>Engineer
         </h2>
       </AnimationContainer>
       <AnimationContainer customClassName='w-[80px] sm:w-[176px] relative mb-6 lg:mb-0'>
