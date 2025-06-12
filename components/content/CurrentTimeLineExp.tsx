@@ -9,7 +9,7 @@ const CurrentTimeLineExp = () => {
 
       <TimelineEvent active>
       <TimelineEvent.Title>KMA Group Of Companies</TimelineEvent.Title>
-        <TimelineEvent.Title> System Engineer | Dec 2023 - <b>Present</b></TimelineEvent.Title>
+        <TimelineEvent.Title>Senior System Engineer | Dec 2023 - <b>Present</b></TimelineEvent.Title>
 
         <TimelineEvent.Description>
         - Administer and maintain Windows and Linux (Ubuntu, RHEL) servers, ensuring optimal <br /> &nbsp; performance and security.<br />
